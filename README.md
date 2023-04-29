@@ -1,16 +1,9 @@
-# universities
+# Universities
 
-A new Flutter project.
+This app helps you to find Universities around the world.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/126548231/235300124-00848e42-e7b9-4777-882f-e6d7b982b964.png" width="300">
+<img src="https://user-images.githubusercontent.com/126548231/235300125-e1af9d69-5c7a-491c-b4ed-42dd33c466ae.png" width="300">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
